@@ -19,8 +19,20 @@ body {
     margin-top: -10px;
 }
 
+#our-games-link {
+    margin-left: auto;
+}
+
+a:link { text-decoration: none; }
+
 .stats-container {
     display: flex;
+    align-items: center;
+}
+
+.stats-container:hover {
+    cursor: pointer;
+    box-shadow: 0 0 30px lightblue;
 }
 
 .stats-card {
