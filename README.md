@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 
 <img src='https://imgur.com/a/AuKIkNM' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-![](https://imgur.com/a/AuKIkNM)
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/AuKIkNM" data-context="false" ><a href="//imgur.com/a/AuKIkNM"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 GIF created with Imgur
 
